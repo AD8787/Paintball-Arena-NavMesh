@@ -1,7 +1,5 @@
-# PRO-C164
+# Paintball Arena NavMesh
 ---
-use WASD to move
+Use WASD to move.
 
-press Q to shoot
-
-https://viet4.github.io/PRO-C164/
+Press Q to shoot.
